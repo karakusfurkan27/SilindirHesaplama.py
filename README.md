@@ -1,7 +1,3 @@
-İşte silindir hacmini hesaplayan Python programı için bir README dosyası önerisi:
-
----
-
 # Silindir Hacmi Hesaplama Programı
 
 Bu Python programı, kullanıcıdan silindirin yarıçapı ve yüksekliğini alarak silindirin hacmini hesaplar. Hesaplama işlemi için matematiksel formül şu şekildedir:
